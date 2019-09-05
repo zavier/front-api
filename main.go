@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/zavier/common-front-api/api"
-	"github.com/zavier/common-front-api/middleware"
+	"github.com/zavier/front-api/api"
+	"github.com/zavier/front-api/middleware"
 	"log"
 )
 

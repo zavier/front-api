@@ -1,4 +1,4 @@
-module github.com/zavier/common-front-api
+module github.com/zavier/front-api
 
 go 1.12
 
